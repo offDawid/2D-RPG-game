@@ -1,5 +1,5 @@
 # Gra Komputerowa - PO
-Projekt gry / grupa 1
+Projekt gry / grupa 1 (gra RPG z wykorzystaniem silnika Unity)
 
 22.04 - oddanie kompletnej dokumentacji w formie pliku pdf
 
