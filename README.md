@@ -1,4 +1,4 @@
-# PO-project-grupa-1
+# Gra Komputerowa - PO
 Projekt gry / grupa 1
 
 22.04 - oddanie kompletnej dokumentacji w formie pliku pdf
