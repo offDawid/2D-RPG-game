@@ -1,4 +1,4 @@
-<h3 align="center">2D RPG game with pixel graphics</h3>
+<h3 align="center">🎮 2D RPG game with pixel graphics 🎮</h3>
 
 ---
 
